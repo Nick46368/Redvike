@@ -1,0 +1,34 @@
+# Dependency directories
+node_modules/
+
+# Playwright test results
+playwright-report/
+
+test-results/
+
+# TypeScript build output
+dist/
+*.tsbuildinfo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS or Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
